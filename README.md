@@ -1,6 +1,6 @@
 # KalmanFilterExample1
 
-[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample) 1: from adapted C code is an example to use a Kalman filter.
+[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExamples) 1: from adapted C code is an example to use a Kalman filter.
 
 # External links
 
